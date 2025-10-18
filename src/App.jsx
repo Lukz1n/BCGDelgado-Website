@@ -65,7 +65,7 @@ function App() {
   ]
 
   const stats = [
-    { number: '10+', label: 'Anos de Experiência' },
+    { number: '30+', label: 'Anos de Experiência' },
     { number: '5000+', label: 'Dispositivos Reparados' },
     { number: '98%', label: 'Taxa de Sucesso' },
     { number: '24h', label: 'Tempo Médio de Reparo' }
@@ -152,7 +152,7 @@ function App() {
             transition={{ duration: 0.8, delay: 0.6 }}
           >
             Especialistas em micro soldagem, troca de tela, conectores e software.
-            <br />Qualidade profissional com 10 anos de experiência no mercado.
+            <br />Qualidade profissional com 30 anos de experiência no mercado.
           </motion.p>
 
           <motion.div 
@@ -255,7 +255,7 @@ function App() {
             >
               <h2 className="section-title">Sobre Nós</h2>
               <p className="about-text">
-                Com mais de 10 anos de experiência no mercado de assistência técnica, 
+                Com mais de 30 anos de experiência no mercado de assistência técnica, 
                 a <strong>BCG DELGADO ELETRÔNICOS</strong> se consolidou como referência 
                 em reparo de dispositivos móveis Android e iOS.
               </p>
